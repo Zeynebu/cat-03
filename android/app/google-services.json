@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1072650067327",
+    "project_id": "userregistrationandloginsystem",
+    "storage_bucket": "userregistrationandloginsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072650067327:android:6b401fb379526d2e074e4a",
+        "android_client_info": {
+          "package_name": "com.example.zainabu_cat03"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKFIczwxhAF2ncQaarnYA2JvbesJxoO4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
